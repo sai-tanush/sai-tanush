@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" />
 
-- 🔭 I’m currently working on **It's a secret-project 😁**
+- 🔭 I’m currently working on **[It's a secret-project] 😁**
 
 - 🌱 I’m currently learning **Nextjs**
 
