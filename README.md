@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-tanush&show_icons=true&locale=en&layout=compact" alt="sai-tanush" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-tanush&show_icons=true&locale=en" alt="sai-tanush" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-tanush&" alt="sai-tanush" /></p>
