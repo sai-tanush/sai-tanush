@@ -1,4 +1,4 @@
-![Header](https://media.licdn.com/dms/image/v2/D5616AQGXWFZ7jv-XAA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729863327867?e=1735171200&v=beta&t=nWUQFFax-5d-hpjDR2ESsRKYxBfIa2D1EFQ0evZSb9A)
+![Header](https://camo.githubusercontent.com/777b3021b0aa890665c2eddb1c8fa5509bb82893db637134f9013de0831e6716/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm SAI TANUSH</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" />
